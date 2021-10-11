@@ -14,15 +14,8 @@
                 "description": "Get All Users.",
                 "operationId": "GetAllUsers",
                 "parameters": [
-                    {
-                        "name": "firstName",
-                        "in": "query",
-                        "description": "First name for filter user by firstname like",
-                        "required": false,
-                        "schema": {
-                            "type": "string"
-                        }
-                    },
+                   
+                
                     {
                         "name": "lastName",
                         "in": "query",
